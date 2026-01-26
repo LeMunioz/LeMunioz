@@ -39,7 +39,7 @@
       </ul> 
       </td>
       <td>
-          <img src="https://user-images.githubusercontent.com/76079388/132920075-93bbbb22-ac8e-491a-b33a-3f457b9933bf.gif" width=650px> 
+          <img src="https://user-images.githubusercontent.com/76079388/132920075-93bbbb22-ac8e-491a-b33a-3f457b9933bf.gif" width=580px> 
       </td>
     </tr>
 </table>    
