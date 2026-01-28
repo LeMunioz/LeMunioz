@@ -15,8 +15,8 @@
 
 <!--   ESTADISTICAS    -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeMunioz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=one_dark_pro&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeMunioz&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=5&theme=one_dark_pro&hide_border=false" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeMunioz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=one_dark_pro&locale=en&hide_border=false" height="165" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeMunioz&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=one_dark_pro&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 <!--   HABILIDADES    -->
